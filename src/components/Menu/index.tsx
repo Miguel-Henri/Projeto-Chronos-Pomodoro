@@ -1,5 +1,5 @@
 import styles from './Styles.module.css';
-import { HistoryIcon, HouseIcon, SettingsIcon, SunIcon, TimerIcon } from 'lucide-react';
+import { HistoryIcon, HouseIcon, SettingsIcon, SunIcon } from 'lucide-react';
 
 
 
